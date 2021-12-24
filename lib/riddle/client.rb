@@ -159,7 +159,7 @@ module Riddle
       # defaults
       @offset         = 0
       @limit          = 20
-      @max_matches    = 1000
+      @max_matches    = 5000
       @match_mode     = :all
       @sort_mode      = :relevance
       @sort_by        = ''
